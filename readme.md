@@ -97,21 +97,8 @@ Smart Preprocessing - Text cleaning and normalization
 
 📊 Supported File Formats
 CSV Format
-csv
-question,answer
-"What is your return policy?","We offer 30-day returns for all products"
-"How to contact support?","Email us at support@company.com"
-Bulk Text Format
-text
-Question 1?|Answer for question 1
-Question 2?|Answer for question 2
-Question 3?|Answer for question 3
 JSON Format
-json
-{
-  "questions": ["Question 1?", "Question 2?"],
-  "answers": ["Answer 1", "Answer 2"]
-}
+
 🔧 Customization
 Adding New Templates
 Edit the templates dictionary in the code to add your own quick-start templates:
@@ -142,5 +129,6 @@ Improve documentation
 
 📝 License
 This project is part of the CodeAlpha AI Internship Program. Feel free to use and modify for educational purposes.
+
 
 # CodeAlpha_faq_chatbot
