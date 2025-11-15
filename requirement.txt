@@ -1,0 +1,16 @@
+# Web Application Framework
+streamlit==1.28.0
+
+# Data Processing & Analysis
+pandas==2.0.3
+numpy==1.24.3
+
+# Machine Learning & NLP
+scikit-learn==1.3.0
+nltk==3.8.1
+
+# Additional Utilities
+plotly==5.15.0
+
+# Note: NLTK data will be automatically downloaded on first run
+# This includes 'punkt' tokenizer and 'stopwords' corpus
